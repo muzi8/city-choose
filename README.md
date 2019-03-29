@@ -63,3 +63,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ###### 在webpack.base.config.js中删去了rules里关于scss和css的配置
 
 因为新版的`vue-cli`在`build/util.js`已经配置了这些，如果在`webpack.base.config.js`中再写就是重复配置，会导致在`main.js`中全局引用`css`和`scss`的时候报错。
+
+## 更新自2019/03/29
+product组件我删掉跳转，因为详情页当时并没有完成，同事后来删掉了这个项目的设计稿，我没办法去看标注了。。所以项目慢慢作废了，但是对于城市选择这里，还是可以当做一个练手的组件
