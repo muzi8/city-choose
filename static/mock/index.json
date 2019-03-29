@@ -1,0 +1,125 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "//m.360buyimg.com/mobilecms/s1125x690_jfs/t21844/110/221494557/48158/d275a86a/5b055023Nab18f667.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "//m.360buyimg.com/mobilecms/s1125x690_jfs/t21550/74/220788198/139323/bef15300/5b04c8f9N07791716.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//img1.360buyimg.com/da/jfs/t19894/278/660993498/98923/e84543d4/5b05469fN1a543aa9.jpg!cr_1125x549_0_72"
+      }
+    ],
+    "iconsList": [
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_jingcai@2x.png",
+        "text": "睛彩世界"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_jingcai@2x.png",
+        "text": "护理用品"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_mz@2x.png",
+        "text": "美妆个护"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_bj@2x.png",
+        "text": "滋补保健"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_yl@2x.png",
+        "text": "医疗器械"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_jt@2x.png",
+        "text": "家庭常备"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_js@2x.png",
+        "text": "计生用品"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_wanzhuan@2x.png",
+        "text": "玩赚秀豆"
+      },
+      {
+        "href": "home",
+        "src": "/static/images/home/home_icon_wanzhuan@2x.png",
+        "text": "一日游玩"
+      }
+    ],
+    "productList": [
+      {
+        "id": "001",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "0"
+      },
+      {
+        "id": "002",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛3",
+        "price": "158.00",
+        "saleNum": "8"
+      },
+      {
+        "id": "003",
+        "img": "//gw.alicdn.com/imgextra/i4/2200070681/TB2ytaffOMnBKNjSZFoXXbOSFXa_!!2200070681-0-shop_design.jpg_790x10000Q75.jpg_.webp",
+        "title": "卫龙辣条",
+        "price": "5.00",
+        "saleNum": "1000"
+      },
+      {
+        "id": "004",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "10"
+      },
+      {
+        "id": "005",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "0"
+      },
+      {
+        "id": "006",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "11"
+      },
+      {
+        "id": "007",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "30"
+      },
+      {
+        "id": "008",
+        "img": "//img.alicdn.com/bao/uploaded/i4/1941254392/TB1uNRWjaSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_250x250Q50s50.jpg_.webp",
+        "title": "博士伦清朗一日日抛30片博博士伦清朗博士伦清朗一日日抛30片",
+        "price": "158.00",
+        "saleNum": "0"
+      }
+    ]
+  }
+}
+
