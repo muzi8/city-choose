@@ -13,7 +13,6 @@ module.exports = {
     proxyTable: {
       '/api': {
         target: 'http://localhost:8080', // 前端端口，下面的模拟是后端端口
-        // target: 'http://www.xueyangirl.com/api',
         pathRewrite: {  // 如果是前后端联调，这里要删掉，包括下面的^/api
           '^/api': '/static/mock'
         }
